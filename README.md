@@ -1,2 +1,3 @@
 # Disk_scheduling_algorithm_Cpp-Qt
+2020年吉林大学软件学院操作系统课程设计
 磁盘调度算法,Qt实现界面
